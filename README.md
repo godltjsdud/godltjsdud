@@ -4,7 +4,6 @@
 **godltjsdud/godltjsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -45,13 +44,14 @@ Here are some ideas to get you started:
 ##  🏆 Awards
 
 | PERIOD | COMPETITON | AWARDS |
-| ------- | ------- | -------|
+| ------- | ------- | ------- |
 | 2023.11.16 | **제21차 동북아 공개SW활성화포럼** | **Outstanding Technologies Project Award 🏆** |
 | 2022.12.06 | **제 16회 공개SW 개발자대회** | **학생부문 대상 🥇 (과학기술정보통신부 장관상)** |
 | 2022.09.23 | 제 18회 한성 공학경진대회 | 작품부문 대상 🥇, 특허부문 금상 🥇 |
 | 2022.06.03 | 컴퓨터공학부 캡스톤디자인 작품 발표회 | 모바일분야 최우수상 🥇 |
 | 2022.10.07 | 22-1 한성대학교 창의융합성과 경진대회 (C&C Festival) | 금상🥈 |
 | 2021.09.24 | 제 17회 한성공학경진대회 | 작품부문 금상 🥈, 특허부문 동상 🥉 |
+
 
 
 

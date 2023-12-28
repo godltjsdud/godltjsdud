@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 조회수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgodltjsdud&count_bg=%23000000&title_bg=%23FFC0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/godltjsdud)
 
+<!-- 깃헙리드미스탯, 백준 -->
 <img src="https://github-readme-stats.vercel.app/api?username=godltjsdud&show_icons=true&theme=ambient_gradient" width="400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=godltjsdud">
 
 <br>
@@ -38,7 +40,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## 
+<br>
+
+##  🏆 Awards
+| PERIOD | COMPETITON | AWARDS |
+| ------- | ------- | -------|
+| 2023.11.16 | **제21차 동북아 공개SW활성화포럼** | **Outstanding Technologies Project Award 🏆** |
+| 2022.12.06 | **제 16회 공개SW 개발자대회** | **학생부문 대상 🥇 (과학기술정보통신부 장관상)** |
+| 2022.09.23 | 제 18회 한성 공학경진대회 | 작품부문 대상 🥇, 특허부문 금상 🥇 |
+| 2022.06.03 | 컴퓨터공학부 캡스톤디자인 작품 발표회 | 모바일분야 최우수상 🥇 |
+| 2022.10.07 | 22-1 한성대학교 창의융합성과 경진대회 (C&C Festival) | 금상🥈 |
+| 2021.09.24 | 제 17회 한성공학경진대회 | 작품부문 금상 🥈, 특허부문 동상 🥉 |
 
 
 

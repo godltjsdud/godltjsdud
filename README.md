@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgodltjsdud&count_bg=%23000000&title_bg=%23FFC0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/godltjsdud)
 
-<img src="https://github-readme-stats.vercel.app/api?username=godltjsdud&show_icons=true&theme=ambient_gradient" width="400px">
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=godltjsdud" width ="400px">
+<img src="https://github-readme-stats.vercel.app/api?username=godltjsdud&show_icons=true&theme=ambient_gradient" width="400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=godltjsdud">
 
 ---
 

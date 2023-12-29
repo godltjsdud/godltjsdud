@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!-- node.js -->
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <!-- django -->
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <!-- flask -->
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <!-- react -->
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- spring -->
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -51,7 +53,5 @@ Here are some ideas to get you started:
 | 2022.06.03 | 컴퓨터공학부 캡스톤디자인 작품 발표회 | 모바일분야 최우수상 🥇 |
 | 2022.10.07 | 22-1 한성대학교 창의융합성과 경진대회 (C&C Festival) | 금상🥈 |
 | 2021.09.24 | 제 17회 한성공학경진대회 | 작품부문 금상 🥈, 특허부문 동상 🥉 |
-
-
 
 

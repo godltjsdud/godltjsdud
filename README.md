@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+꾸준하게 노력하는,<br>
+배움을 나누며 소통하는,<br>
+목표를 이루기 위해 성장하는,<br>
+개발자 되기!<br>
+<br>
+
 <!--
 **godltjsdud/godltjsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

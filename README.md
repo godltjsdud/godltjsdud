@@ -59,7 +59,17 @@ if __name__ == '__main__':
 
 ```
 <br>
-* 인스턴스 별 성능 결과 <br>
+
+* Tg4 인스턴스 <br><br>
+이러한 인스턴스는 기본 수준의 CPU 성능 외에 버스트 기능이 있어 워크로드에 필요한 만큼 성능을 높일 수 있습니다. 무제한 인스턴스는 필요할 때마다 원하는 기간 동안 높은 CPU 성능을 유지할 수 있습니다. 자세한 내용은 성능 순간 확장 가능 인스턴스 섹션을 참조하세요. 이러한 인스턴스는 다음의 경우에 적합합니다.<br><br>
+
+    웹 사이트 및 웹 애플리케이션: <br>
+    코드 리포지토리 <br>
+    개발, 빌드, 테스트 및 스테이징 환경<br>
+    마이크로서비스 <br>
+    
+
+* 인스턴스 별 성능 결과 <br><br>
 <img width="444" alt="스크린샷 2024-01-04 오후 4 43 00" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/a608481d-b5b9-45b2-be9c-61ce13ebd703"><br>
 <img width="442" alt="스크린샷 2024-01-04 오후 4 35 46" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/0875c67a-95e9-406a-99f3-ee7447939c8c"><br>
 <img width="448" alt="스크린샷 2024-01-04 오후 4 29 42" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/622e8732-2791-4a40-81ee-ba37289ec929"><br>

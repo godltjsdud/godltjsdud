@@ -78,7 +78,9 @@ if __name__ == '__main__':
   t4g.micro : 5789ms 
   t4g.nano : 5989ms 
   t4g.small : 5810ms 
-  t4g.medium :  6149ms 
+  t4g.medium :  6149ms
+
+  micro < small < nano < medium
 ```
 <br>
 

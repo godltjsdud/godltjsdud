@@ -66,7 +66,7 @@ if __name__ == '__main__':
     웹 사이트 및 웹 애플리케이션: <br>
     코드 리포지토리 <br>
     개발, 빌드, 테스트 및 스테이징 환경<br>
-    마이크로서비스 <br>
+    마이크로서비스 <br><br>
     
 
 * 인스턴스 별 성능 결과 <br><br>
@@ -74,8 +74,22 @@ if __name__ == '__main__':
 <img width="442" alt="스크린샷 2024-01-04 오후 4 35 46" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/0875c67a-95e9-406a-99f3-ee7447939c8c"><br>
 <img width="448" alt="스크린샷 2024-01-04 오후 4 29 42" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/622e8732-2791-4a40-81ee-ba37289ec929"><br>
 <img width="441" alt="스크린샷 2024-01-04 오후 4 51 42" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/3a43c96a-01a1-4688-a4f9-13f45a2422b6"><br>
+```
+  t4g.micro : 5789ms 
+  t4g.nano : 5989ms 
+  t4g.small : 5810ms 
+  t4g.medium :  6149ms 
+```
 <br>
 
+* 하드웨어 사양<br>
+    | 인스턴스 유형 | 기본 vCPU | 메모리(GIB) |
+    | ------- | ------- | ------- |
+    | t4g.nano | 2 | 0.50 |
+    | t4g.micro | 2 | 1.00 |
+    | t4g.small | 2 | 2.00 |
+    | t4g.medium | 2 | 4.00 |
+<br><br>
 
 <!--
 **godltjsdud/godltjsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

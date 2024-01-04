@@ -5,12 +5,65 @@
 목표를 이루기 위해 성장하는,<br>
 개발자 되기!<br>
 ### aws 인스턴스 성능테스트 (micro, nano, small, medium 순)
+* 성능 테스트 크롤링 코드
+```
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    import requests
+    from bs4 import BeautifulSoup
+
+    # 여러 웹사이트의 URL 리스트
+    urls = ['https://github.com/yeahh315',
+            'https://github.com/Chaeniiiii',
+            'https://github.com/Johyerin',
+            'https://github.com/Woo-Shinyoung',
+            'https://github.com/dbqudals',
+            'https://github.com/kihyun1221',
+            'https://github.com/seungtoctoc'
+             ]
+    
+    result = ""
+
+    for url in urls:
+        # 각 웹사이트의 내용을 가져오기
+        response = requests.get(url)
+
+        # 가져온 내용을 BeautifulSoup을 사용하여 파싱
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # <article> 태그 찾기
+        article_tag = soup.find('article')
+        name = soup.find('div', class_="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields")
+        
+        result += url + "<br>"
+
+        if name.text:
+            result += name.text + "<br>"
+        
+        if article_tag:
+            result += article_tag.text
+        result += "<br>--------------------------------------------------<br><br>"
+
+    if result:
+        return result
+    
+    return ''
+
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
+
+```
+<br>
+* 인스턴스 별 성능 결과 <br>
 <img width="444" alt="스크린샷 2024-01-04 오후 4 43 00" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/a608481d-b5b9-45b2-be9c-61ce13ebd703"><br>
 <img width="442" alt="스크린샷 2024-01-04 오후 4 35 46" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/0875c67a-95e9-406a-99f3-ee7447939c8c"><br>
 <img width="448" alt="스크린샷 2024-01-04 오후 4 29 42" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/622e8732-2791-4a40-81ee-ba37289ec929"><br>
 <img width="441" alt="스크린샷 2024-01-04 오후 4 51 42" src="https://github.com/godltjsdud/godltjsdud/assets/71091090/3a43c96a-01a1-4688-a4f9-13f45a2422b6"><br>
-
-
 <br>
 
 

@@ -61,3 +61,12 @@ Here are some ideas to get you started:
 | 2021.09.24 | 제 17회 OO공학경진대회 | 작품부문 금상 🥈, 특허부문 동상 🥉 |
 
 
+## 🪪 Certificate
+| CERTIFICATE | DATE |
+| ------- | ------- |
+| 정보처리기사 | 2021.06 |
+| SQLD (SQL개발자) | 2023.10 |
+| PCCP LV3 | 2024.11 |
+| 펀드투자권유대행인 | 2024.10 |
+
+

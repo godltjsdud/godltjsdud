@@ -70,4 +70,8 @@ Here are some ideas to get you started:
 | PCCP LV3 | 2024.11 |
 | 펀드투자권유대행인 | 2024.10 |
 
+<br>
+
+## 📚 Education
+- 신한투자증권 프로디지털 아카데미(클라우드 기반 금융 ICT 풀스택 교육 과정) 3기 수료
 

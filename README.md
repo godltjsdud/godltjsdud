@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🪪 Certificate
+## 🗂️ Certificate
 | CERTIFICATE | DATE |
 | ------- | ------- |
 | 정보처리기사 | 2021.06 |
